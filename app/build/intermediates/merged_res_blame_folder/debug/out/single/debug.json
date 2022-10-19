@@ -1,0 +1,266 @@
+[
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_email_logo_blue.xml.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\drawable-anydpi\\email_logo_blue.xml"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\layout_login_account.xml.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\layout\\login_account.xml"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_person_logo_red.png.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\drawable-xhdpi\\person_logo_red.png"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_login_maps_img_l.png.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\drawable-v24\\login_maps_img_l.png"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_close_icon.png.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\drawable-xxhdpi\\close_icon.png"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_forgot_screen_img.png.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\drawable-v24\\forgot_screen_img.png"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_textinpurborder_blue.xml.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\drawable-v24\\textinpurborder_blue.xml"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_lock_logo_grey.png.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\drawable-xxhdpi\\lock_logo_grey.png"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_lock_logo_red.png.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\drawable-hdpi\\lock_logo_red.png"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_lock_logo_red.xml.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\drawable-anydpi\\lock_logo_red.xml"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_person_logo_red.png.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\drawable-xxhdpi\\person_logo_red.png"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_warning_logo.png.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\drawable-xhdpi\\warning_logo.png"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_textinpurborder_black2.xml.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\drawable-v24\\textinpurborder_black2.xml"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\layout_error_message2.xml.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\layout\\error_message2.xml"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_lock_logo_red.png.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\drawable-xxhdpi\\lock_logo_red.png"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_warning_logo.png.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\drawable-xxhdpi\\warning_logo.png"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_login_maps_img_r.png.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\drawable-v24\\login_maps_img_r.png"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_button_styles_yellow.xml.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\drawable-v24\\button_styles_yellow.xml"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_button_styles_blue.xml.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\drawable-v24\\button_styles_blue.xml"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_login_logo.png.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\drawable-v24\\login_logo.png"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_warning_logo.png.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\drawable-hdpi\\warning_logo.png"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_textinpurborder_black.xml.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\drawable-v24\\textinpurborder_black.xml"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_lock_logo_grey.png.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\drawable-xhdpi\\lock_logo_grey.png"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_close_icon.png.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\drawable-xhdpi\\close_icon.png"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_email_logo_yellow.png.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\drawable-hdpi\\email_logo_yellow.png"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_textinpurborder_red.xml.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\drawable-v24\\textinpurborder_red.xml"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\layout_create_account.xml.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\layout\\create_account.xml"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_close_icon.png.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\drawable-hdpi\\close_icon.png"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_back_button.png.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\drawable-v24\\back_button.png"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_warning_logo.xml.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\drawable-anydpi\\warning_logo.xml"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_close_icon.xml.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\drawable-anydpi\\close_icon.xml"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_create_screen_textimg.png.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\drawable-v24\\create_screen_textimg.png"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_person_logo_red.xml.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\drawable-anydpi\\person_logo_red.xml"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_lock_logo_red.png.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\drawable-mdpi\\lock_logo_red.png"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_warning_logo.png.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\drawable-mdpi\\warning_logo.png"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_close_icon.png.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\drawable-mdpi\\close_icon.png"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_email_logo_yellow.xml.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\drawable-anydpi\\email_logo_yellow.xml"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_email_logo_blue.png.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\drawable-hdpi\\email_logo_blue.png"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_forgot_screen_img2.png.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\drawable-v24\\forgot_screen_img2.png"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\layout_splash_screen.xml.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\layout\\splash_screen.xml"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_email_logo_blue.png.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\drawable-xxhdpi\\email_logo_blue.png"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_email_logo_yellow.png.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\drawable-mdpi\\email_logo_yellow.png"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_person_logo_red.png.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\drawable-hdpi\\person_logo_red.png"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_email_logo_blue.png.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\drawable-mdpi\\email_logo_blue.png"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_lock_logo_red.png.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\drawable-xhdpi\\lock_logo_red.png"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_person_logo_red.png.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\drawable-mdpi\\person_logo_red.png"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_lock_logo_grey.png.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\drawable-mdpi\\lock_logo_grey.png"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\layout_warning_message_sign_in.xml.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\layout\\warning_message_sign_in.xml"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\layout_testing_dashboard.xml.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\layout\\testing_dashboard.xml"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_lock_logo_grey.xml.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\drawable-anydpi\\lock_logo_grey.xml"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_textinpurborder_yellow.xml.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\drawable-v24\\textinpurborder_yellow.xml"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_swagat_hai_gif.gif.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\drawable-v24\\swagat_hai_gif.gif"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_button_styles_red.xml.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\drawable-v24\\button_styles_red.xml"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_email_logo_blue.png.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\drawable-xhdpi\\email_logo_blue.png"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_email_logo_yellow.png.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\drawable-xhdpi\\email_logo_yellow.png"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_email_logo_yellow.png.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\drawable-xxhdpi\\email_logo_yellow.png"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_lock_logo_grey.png.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\drawable-hdpi\\lock_logo_grey.png"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_swagat_hai.png.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\drawable-v24\\icon_swagat_hai.png"
+    },
+    {
+        "merged": "C:\\AkhilProjects\\SWAGAT HAI\\app\\build\\intermediates\\merged_res\\debug\\layout_forgot_password.xml.flat",
+        "source": "C:\\AkhilProjects\\SWAGAT HAI\\app\\src\\main\\res\\layout\\forgot_password.xml"
+    }
+]
