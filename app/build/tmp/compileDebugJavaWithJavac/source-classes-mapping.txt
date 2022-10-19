@@ -1,0 +1,2 @@
+com/example/swagathai/BuildConfig.java
+ com.example.swagathai.BuildConfig
